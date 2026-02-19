@@ -1,7 +1,7 @@
 package com.example;
 import org.junit.Test;
 import static org.junit.Assert.*;
-public class AppTest {
+public class appTest {
 @Test
 public void testAdd() {
 App app = new App();
